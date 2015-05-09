@@ -1,4 +1,4 @@
-# android_simple_shell
+# Simple Shell by Nicholas Lochner for CS241 Android Development Examples
 A simple shell for Android using the SDK and NDK.
 This is a simple shell program for Android using the SDK and NDK.
 
