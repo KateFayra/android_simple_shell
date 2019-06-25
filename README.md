@@ -9,5 +9,5 @@ It also supports the standard "cd" command to change the current working directo
 
 The shell prompt emulates Bash by showing the username, hostname, and current working directory.
 
-######Note
+###### Note
 It can not currently handle programs which need additional input from stdin after initial execution as it does not keep a pipe open between the code and the child process.
