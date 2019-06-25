@@ -1,5 +1,5 @@
 # Simple Shell by Nicholas Lochner
-A simple shell for Android using the SDK and NDK created for CS241 Android development examples.
+A simple shell for Android using the SDK (Java Standard Development Kit) and NDK (Native C Development Kit) created for CS241 systems programming Android examples while I was a course assistant.
 
 Can be installed on any Android device as an APK and can execute any standard UNIX system utilities such as: ls, cat, uname, and ps. 
 
