@@ -1,7 +1,7 @@
 # Simple Shell by Nicholas Lochner
 A simple shell for Android using the SDK and NDK created for CS241 Android development examples.
 
-It can execute any standard UNIX system utilities such as: ls, cat, uname, and ps. 
+Can be installed on any Android device as an APK and can execute any standard UNIX system utilities such as: ls, cat, uname, and ps. 
 
 It uses fork() and exec() in the native C code to do so, while writing output and receiving user input from the Java code.
 
